@@ -1,1 +1,11 @@
-Data travels the internet in 
+Data travels the internet in small packets of information, also known as bit.
+
+An IP address is a set of numbers to identify a certain computer. This allows
+computers communicate with each other over a network. DNS is a Domain Name
+System, these servers communicate with each other to answer request for
+websites IP address.
+
+A cookie is a small packet of date sent to a web host. This allows users to
+stay login when they refresh a website.
+
+The three basic parts of a URL are the protocol, domain, and path.

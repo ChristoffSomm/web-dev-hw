@@ -1,0 +1,52 @@
+body {
+    background-color: #000000;
+}
+h1 {
+  color: #A1000A;
+  text-align: center;
+  font-family: 'Ravi Prakash', cursive;
+  font-size: 300%;
+  font-style: normal;
+  font-weight:400;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 30px;
+  letter-spacing: -1;
+
+}
+h2 {
+  color: #A1000A;
+  text-align: center;
+  font-family: 'Lakki Reddy', cursive;
+  font-size: 200%;
+}
+
+h3 {
+  color: #A1000A;
+  text-align: center;
+  font-family: 'Lakki Reddy', cursive;
+  font-size: 180%;
+}
+
+p {
+    color: #A1000A;
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Ravi Prakash', cursive;
+    font-weight: lighter;
+}
+
+#b2{
+  text-align: center;
+  font-family: 'Overlock SC', cursive;
+  font-size: 150%;
+}
+a:link {
+  color: #520600;
+}
+a:visited {
+  color:#FFE9EF;
+}
+a:hover{
+  color: #737072;
+}

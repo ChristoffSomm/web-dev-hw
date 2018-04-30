@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Lakki+Reddy|Overlock+SC|Ravi+Prakash');
+
+@font-face {
+font-family: 'Lakki Reddy';
+font-weight: ;
+font-style: ;
+}
+
+h1 h2 h3 {font-family: 'Lakki Reddy', cursive;}
+p {font-family: 'Ravi Prakash', cursive;}
